@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "mikehaertl/phpwkhtmltopdf": "^2.2"
+    }
+}
